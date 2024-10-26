@@ -18,3 +18,6 @@ https://assignment-7-playerxi.netlify.app/
 
 ## Github Repository Link:
 https://github.com/programming-hero-web-course1/b10a7-dream-11-Saiful109710
+
+## github repository link:
+https://github.com/Saiful109710/assignment-7-player-xi
